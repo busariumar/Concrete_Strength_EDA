@@ -88,8 +88,7 @@ The EDA process includes:
 
 ## 📁 Project Structure
 
-Concrete-Strength-EDA/
-│
+Concrete-Strength-EDA
 ├── Concrete_Strength_EDA.ipynb
 ├── README.md
 
