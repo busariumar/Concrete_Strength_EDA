@@ -16,6 +16,9 @@ The objectives of this project are to:
 - Prepare the dataset for future predictive modeling
 
 ---
+## Dataset Used
+- <a href="https://github.com/busariumar/Concrete_Strength_EDA/blob/main/Concrete_Data.xls">Concrete Data</a>
+---
 
 ## 📊 Dataset Overview
 
